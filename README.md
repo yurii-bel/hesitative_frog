@@ -1,5 +1,5 @@
 # Hesitative Frog
-3D game in the genre "Top-Down Shooter" for Android OS (but it is possible to run it on other platforms, tested only on Windows OS)
+2D Platformer Game in Unity for Windows OS.
 
 The game was created for educational and entertainment purposes to get practice.
 
@@ -11,7 +11,7 @@ Mastered and done:
 * Debugging, testing, building project (Android & Windows)
 * OOP principles
 
-![screen](https://i.imgur.com/QWfdbl9.jpg)
+![screen](https://drive.google.com/file/d/1m4NIbg-PTrDljp1hJmb7PYOqV8d3HQtR/view?usp=sharing)
 
 # Rules and game overview:
 
