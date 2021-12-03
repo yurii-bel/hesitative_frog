@@ -13,7 +13,7 @@ Mastered and done:
 
 ![screen](https://drive.google.com/file/d/1m4NIbg-PTrDljp1hJmb7PYOqV8d3HQtR/view?usp=sharing)
 
-# Rules and game overview:
+# Game overview:
 
 ### Goal 
 Pass the waves and earn as many points as possible. Points are awarded for killing enemies and obstacles (like asteroids). 
