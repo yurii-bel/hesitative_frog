@@ -1,16 +1,28 @@
 # Hesitative Frog
 2D Platformer Game in Unity for Windows OS.
 
-The game was created for educational and entertainment purposes to get practice.
+The game was created for educational and entertainment purposes to get some practice.
 
-Mastered and done:
+The following steps have been done to finish the game creation:
+* to create a Tile Palette in Unity and start drawing our Tilemap
+* to set up a running animation for our player using a boolean Animator parameter. 
+* to add more animations to our animation state machine and toggle between them using an enum.
+* to take care that our player can only jump while he is standing on the ground (ground checking).
+* to add collectible items to our game and display a counter in the UI.
+* to let the player die when it collides with a trap and restart the level using the SceneManager.
+* to create a moving platform that follows an array of waypoints and can transport our player. In the process, we will learn about Time.deltaTime.
+* to combine our waypoint follower script with a new rotation script to create a new moving saw trap.
+* to add sounds and music to our game using the Audio Source component.
+* to add more levels to our game by creating additional scenes.
+* to add a start and end game screen to our game by creating scenes with a canvas and buttons.
 
-* Possibilities of the development environment "Unity" and how to use it to create cross-platform games
-* Basic constructs and methods of the C# language (including those that are most often used to create scripts)
-* Creation of mathematical regularities of the trajectory of movement of objects using C#
-* Debugging, testing, building project (Android & Windows)
-* OOP principles
 
+What has been learned and mastered:
+* Discovered and learned the possibilities of the "Unity" environment and how to use it to create 2D games
+* C# basic constructs and methods implementation
+* Creation of mathematical regularities for moving objects in using C# language
+* Debugging, testing, building project (Windows)
+* Using OOP principles
 ![screen](https://drive.google.com/file/d/1m4NIbg-PTrDljp1hJmb7PYOqV8d3HQtR/view?usp=sharing)
 
 # Game overview:
