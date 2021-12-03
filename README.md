@@ -10,7 +10,7 @@ The following steps have been done to finish the game creation:
 * to take care that our player can only jump while he is standing on the ground (ground checking).
 * to add collectible items to our game and display a counter in the UI.
 * to let the player die when it collides with a trap and restart the level using the SceneManager.
-* to create a moving platform that follows an array of waypoints and can transport our player. In the process, we will learn about Time.deltaTime.
+* to create a moving platform that follows an array of waypoints and can transport our player. 
 * to combine our waypoint follower script with a new rotation script to create a new moving saw trap.
 * to add sounds and music to our game using the Audio Source component.
 * to add more levels to our game by creating additional scenes.
